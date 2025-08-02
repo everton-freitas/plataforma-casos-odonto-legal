@@ -78,7 +78,7 @@ const Inicio = () => {
                   onChange={(e) => setDataFim(e.target.value)}
                 />
 
-                {loading ? (
+{/*                 {loading ? (
                   <p>Carregando gráficos...</p>
                 ) : (
                   <>
@@ -109,7 +109,7 @@ const Inicio = () => {
                       </div>
                     </div>
                   </>
-                )}
+                )} */}
               </div>
             </div>
           </div>
